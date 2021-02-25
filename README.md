@@ -14,9 +14,9 @@
 ```
 ## To run the project
 ```python
-   python paint.py (on Windows)
+   python cargame.py (on Windows)
 
-   python3 paint.py (on Mac)
+   python3 cargame.py (on Mac)
 ```
 # Instructions
 | Key |  Abbrivations  | Function | 
